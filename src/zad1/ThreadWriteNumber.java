@@ -1,4 +1,4 @@
-package base;
+package zad1;
 
 public class ThreadWriteNumber implements Runnable{
     private int i;
