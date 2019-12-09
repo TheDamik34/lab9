@@ -36,7 +36,5 @@ public class ThreadWriteNumber implements Runnable{
         }
 
         System.out.println("Hello from task " + i);
-
-
     }
 }

@@ -1,0 +1,8 @@
+implementacja A:
+    czas jeden watek: 13212.0ms
+    czas dwa watki: 11558.0ms
+    czas cztery watki: 11103.0ms
+implementacja B:
+    czas jeden watek: 7827.0ms
+    czas dwa watki: 7665.0ms
+    czas trzy watki: 8933.0ms
